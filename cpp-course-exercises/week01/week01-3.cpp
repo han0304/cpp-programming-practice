@@ -2,8 +2,8 @@
 int main()
 {
     char c;
-    printf("½Ğ¿é¤J¦r¦ê: ");
+    printf("Â½ÃÂ¿Ã©Â¤JÂ¦rÂ¦Ãª: ");
     char line[40];
     scanf("%s",line);
-    printf("§AÅª¤J¤F:%s\n",line);
+    printf("Â§AÃ…ÂªÂ¤JÂ¤F:%s\n",line);
 }
