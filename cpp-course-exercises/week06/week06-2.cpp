@@ -4,8 +4,8 @@ int main()
     FILE * fin =fopen("output.txt","r");
     char line[3000];
     fscanf(fin, "%s",line);
-    printf("§AÅª¨ì¤F%s\n",line);
+    printf("ä½ è®€åˆ°äº†%s\n",line);
 
     fscanf(fin,"%s",line);
-    printf("§AÅª¨ì¤F%s\n",line);
+    printf("ä½ è®€åˆ°äº†%s\n",line);
 }
