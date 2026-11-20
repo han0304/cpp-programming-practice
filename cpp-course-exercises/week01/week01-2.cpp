@@ -1,12 +1,12 @@
 #include <stdio.h>
 int main()
 {
-    printf("½Ð¿é¤J¦r¥À: ");
+    printf("請輸入字母: ");
     char c;
     scanf("%c",&c);
-    printf("§A¿é¤J %c\n",c);
-    printf("½Ð¿é¤J¾ã¼Æ: ");
+    printf("你輸入 %c\n",c);
+    printf("請輸入數字: ");
     int a;
     scanf("%d",&a);
-    printf("§A¿é¤J %d\n",a);
+    printf("你輸入 %d\n",a);
 }
