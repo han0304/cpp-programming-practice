@@ -9,6 +9,6 @@ int main()
     for(int i=0;i<N;i++){
         if(line[i]!=line [N-1-i])bad=1;
     }
-    if(bad==1)printf("¥L¤£¬O°j¤å\n");
-    else printf("¥L¬O°j¤å\n");
+    if(bad==1)printf("ä»–ä¸æ˜¯å›žæ–‡\n");
+    else printf("ä»–æ˜¯å›žæ–‡\n");
 }
